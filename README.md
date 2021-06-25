@@ -1,8 +1,4 @@
- ************************************
- *                                  *
- *     GreeN Tools By DiaVoLuX      *
- * 				                          *
- ************************************
+GreeN Tools By DiaVoLuX 
 
 
  - Pequeño Script para la gestion de Chia, Flax y ChainGreen.
