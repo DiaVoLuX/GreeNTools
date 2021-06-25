@@ -8,8 +8,7 @@ GreeN Tools By DiaVoLuX
  - Varias opciones disponibles como; Activar UPnp, Instalar Cert Harvester, CheckPlots...
 
  
+  
+  Colaboración
 
-
-   Colaboración
-
-   XCH:  xch1qzpg4vfgg0393mvyqcfnxfv6ytjwzvyef805gew6cgphlv0qzcyspz7nek
+  XCH:  xch1qzpg4vfgg0393mvyqcfnxfv6ytjwzvyef805gew6cgphlv0qzcyspz7nek
