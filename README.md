@@ -4,7 +4,7 @@
 
 <p>Ahorra recursos de la GUI y escribir en CLI, desde este pequeño script puedes realizar varias opciones como; Activar UPnp, Instalar Certificado Harvester, CheckPlots... ¡y mucho más!</p>
 
-<b>NOTA</b> Compatible solo con Windows.
+<b>NOTA:</b> Compatible solo con Windows.
 
 <hr>
 
