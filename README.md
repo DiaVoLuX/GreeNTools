@@ -1,3 +1,4 @@
+
 <h1>GreeN Tools By DiaVoLuX</h1> 
 
 <p>Pequeño Script para la gestion de las cryptos Chia, Flax, ChainGreen, Spare, ChiaRose y Goji. <i>(Proximamente más)</i>.</p>
@@ -8,7 +9,7 @@
 
 <hr>
 
-![GreenTools](https://user-images.githubusercontent.com/86480708/124199048-593ba300-dad2-11eb-8e08-f3e3d152b0ae.jpg)
+![GreeNTools-1 0 2](https://user-images.githubusercontent.com/86480708/124199372-09111080-dad3-11eb-8f71-8aab6dbb8deb.jpg)
 
  <p><b>DESCARGA:</b> https://github.com/DiaVoLuX/GreeNTools/releases/tag/Released-v1.0.2</p>
  <p><b>DOCUMENTACIÓN:</b> https://github.com/DiaVoLuX/GreeNTools/wiki/Wiki-GreeNTools</p>
