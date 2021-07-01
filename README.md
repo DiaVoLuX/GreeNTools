@@ -11,7 +11,7 @@
 
 ![GreeNTools-1 0 2](https://user-images.githubusercontent.com/86480708/124199372-09111080-dad3-11eb-8f71-8aab6dbb8deb.jpg)
 
- <p><b>DESCARGA:</b> https://github.com/DiaVoLuX/GreeNTools/releases/tag/Released-v1.0.2</p>
+ <p><b>DESCARGA:</b> https://github.com/DiaVoLuX/GreeNTools/releases/tag/Released-v.1.0.2</p>
  <p><b>DOCUMENTACIÓN:</b> https://github.com/DiaVoLuX/GreeNTools/wiki/Wiki-GreeNTools</p>
  
  <hr>
